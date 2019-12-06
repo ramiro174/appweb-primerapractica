@@ -1,0 +1,21 @@
+.container{
+    background-color: coral;
+    height: 900px;
+}
+
+.cuadro{
+    background-color: darkcyan;
+    width: 200px;
+    height: 200px;
+}
+
+.alto{
+    height: 500px;
+    background-color: darkkhaki;
+}
+.todo
+{
+    background-color: coral;
+    height: 100vh; /* For 100% screen height */
+    width:  100vw; /* For 100% screen width */
+}
